@@ -10,7 +10,7 @@
         "rootDir": "./webapp",
         "baseUrl": "./",
         "paths": {
-            "cds7ui/*": [
+            "cds6ui/*": [
                 "./webapp/*"
             ]
         },

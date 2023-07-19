@@ -1,6 +1,6 @@
 specVersion: "2.6"
 metadata:
-  name: cds7ui
+  name: cds6ui
 type: application
 server:
   customMiddleware:

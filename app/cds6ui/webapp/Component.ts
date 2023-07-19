@@ -1,7 +1,7 @@
 import BaseComponent from "sap/fe/core/AppComponent";
 
 /**
- * @namespace cds7ui
+ * @namespace cds6ui
  */
 export default class Component extends BaseComponent {
 

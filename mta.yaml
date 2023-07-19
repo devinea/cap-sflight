@@ -48,8 +48,8 @@ modules:
       name: sflight-app-travel-analytics
       target-path: resources/
     - artifacts:
-      - cds7ui.zip
-      name: cds7ui
+      - cds6ui.zip
+      name: cds6ui
       target-path: resources/
 - name: sflight-app-travel-processor
   type: html5
@@ -101,9 +101,9 @@ modules:
         existing_destinations_policy: update
   build-parameters:
     no-source: true
-- name: cds7ui
+- name: cds6ui
   type: html5
-  path: app/cds7ui
+  path: app/cds6ui
   build-parameters:
     build-result: dist
     builder: custom

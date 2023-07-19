@@ -4,4 +4,4 @@ using from './travel_processor/layouts';
 
 using from './travel_analytics/annotations';
 
-using from './cds7ui/annotations';
+using from './cds6ui/annotations';

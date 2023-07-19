@@ -8,7 +8,7 @@
 |**Template Used**<br>List Report Page V4|
 |**Service Type**<br>Local Cap|
 |**Service URL**<br>http://localhost:4004/processor/
-|**Module Name**<br>cds7ui|
+|**Module Name**<br>cds6ui|
 |**Application Title**<br>App Title|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_horizon|
@@ -19,7 +19,7 @@
 |**Main Entity**<br>Travel|
 |**Navigation Entity**<br>None|
 
-## cds7ui
+## cds6ui
 
 A Fiori application.
 
@@ -27,7 +27,7 @@ A Fiori application.
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply start your CAP project and navigate to the following location in your browser:
 
-http://localhost:4004/cds7ui/webapp/index.html
+http://localhost:4004/cds6ui/webapp/index.html
 
 #### Pre-requisites:
 
